@@ -1,0 +1,12 @@
+p{color:#00FF11;
+  font-variant: small-caps;
+  text-align: center;
+}
+table{border-block-start-color:#F1F01F }
+.rectangle {
+  display: inline-block;
+  border: 1px solid #0080ff;
+  width: 200px;
+  height: 300px;
+}
+ /*comments in CSS goes here.*/
